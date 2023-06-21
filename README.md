@@ -5,11 +5,6 @@
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
 * [在线阅读](https://util.apachecn.org)
-## 目录
-
-+	[Git 中文文档](doc/git-doc-zh)
-+	[Gitlab 中文文档](doc/gitlab-doc-zh)
-
 ## 下载
 
 ### Docker
